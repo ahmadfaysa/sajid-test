@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Zen+Antique+Soft&display=swap');
+
+body {
+    
+}
+h1 {
+    font-family: Zen Antique;
+    font-size: 40px;
+    margin: 0;
+}
+
+
+/* hero-section */
+.hero {
+    background-image: url(/images/nick-fewings-kKV4bLwSc_4-unsplash.jpg);
+    min-height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.heading {
+    color: whitesmoke;
+}
